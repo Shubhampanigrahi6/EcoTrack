@@ -1,0 +1,52 @@
+{
+  "missions": [
+    {
+      "id": "M001",
+      "title": "Walk instead of driving",
+      "description": "Choose walking for a short journey today.",
+      "category": "Travel",
+      "co2Saved": 0.8,
+      "ecoPoints": 20
+    },
+    {
+      "id": "M002",
+      "title": "Use public transport",
+      "description": "Replace a private vehicle journey with public transport.",
+      "category": "Travel",
+      "co2Saved": 1.2,
+      "ecoPoints": 25
+    },
+    {
+      "id": "M003",
+      "title": "Choose a plant-based meal",
+      "description": "Try a healthy plant-based meal today.",
+      "category": "Food",
+      "co2Saved": 0.6,
+      "ecoPoints": 15
+    },
+    {
+      "id": "M004",
+      "title": "Avoid food waste",
+      "description": "Plan your meals and finish what you take.",
+      "category": "Food",
+      "co2Saved": 0.4,
+      "ecoPoints": 15
+    },
+    {
+      "id": "M005",
+      "title": "Carry a reusable bag",
+      "description": "Avoid single-use shopping bags.",
+      "category": "Shopping",
+      "co2Saved": 0.2,
+      "ecoPoints": 10
+    },
+    {
+      "id": "M006",
+      "title": "Avoid plastic packaging",
+      "description": "Choose products with less packaging.",
+      "category": "Shopping",
+      "co2Saved": 0.3,
+      "ecoPoints": 15
+    }
+  ]
+}

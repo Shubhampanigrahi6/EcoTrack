@@ -1,0 +1,27 @@
+{
+  "user": {
+    "name": "Shubham",
+    "email": "demo@ecotrack.com",
+    "ecoPoints": 1240,
+    "streak": 7
+  },
+  "impact": {
+    "co2Saved": 24.8,
+    "monthlyGoal": 72,
+    "weeklySavings": [2.1, 3.5, 1.8, 4.2, 3.0, 5.1, 5.1]
+  },
+  "leaderboard": [
+    { "name": "Aarav", "points": 2450 },
+    { "name": "Priya", "points": 2180 },
+    { "name": "Rahul", "points": 1890 },
+    { "name": "Shubham", "points": 1240 },
+    { "name": "Ananya", "points": 1100 }
+  ],
+  "reports": {
+    "weeklyCo2Saved": 8.5,
+    "monthlyCo2Saved": 24.8,
+    "walkingKm": 12.5,
+    "cyclingKm": 8.2,
+    "publicTransportKm": 35.0
+  }
+}
