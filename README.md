@@ -8,12 +8,21 @@ Try EcoTrack using the latest release.
 
 | Build | Download |
 |---|---|
-| Android APK | [Download EcoTrack APK](YOUR_APK_RELEASE_ASSET_URL) |
-| Android App Bundle | [Download EcoTrack AAB](YOUR_AAB_RELEASE_ASSET_URL) |
+| Android APK | [Download EcoTrack APK](https://github.com/Shubhampanigrahi6/EcoTrack/releases/download/v1.0.0/app-release.apk) |
+| Android App Bundle | [Download EcoTrack AAB](https://github.com/Shubhampanigrahi6/EcoTrack/releases/download/v1.0.0/app-release.aab) |
 
 **Installation:** Download the APK, open it on your Android device, and allow installation from your browser or file manager if prompted.
 
 **Play Store:** Coming soon!
+
+
+### Demo Login
+
+| Field | Value |
+|---|---|
+| Email | `demo@ecotrack.com` |
+| Password | `123456` |
+
 
 
 
